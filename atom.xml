@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mike Cranwill's Blog]]></title>
+  <link href="http://mcranwill.github.io/atom.xml" rel="self"/>
+  <link href="http://mcranwill.github.io/"/>
+  <updated>2015-01-04T18:34:25-08:00</updated>
+  <id>http://mcranwill.github.io/</id>
+  <author>
+    <name><![CDATA[Mike Cranwill]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Causa Esse]]></title>
+    <link href="http://mcranwill.github.io/blog/2015/01/04/causa-esse/"/>
+    <updated>2015-01-04T11:43:28-08:00</updated>
+    <id>http://mcranwill.github.io/blog/2015/01/04/causa-esse</id>
+    <content type="html"><![CDATA[<p>This is first real post detailing the Causa Esse (&ldquo;Reason to be&rdquo;) of this blog.
+As I am now starting my graduate student career, I plan to make a thoughtful attempt to document the interesting
+topics, questions, and problems which I come across in as cogent and consistent way as possible.  Hence, the most
+modern solution to this is blogging.</p>
+
+<p>Topics to be covered (including but not limited to): Software Engineering Principles, gamification techniques,
+reviews of software and mobile apps, Crossfit experiences, and travel experiences.</p>
+
+<p>I am very excited to enter on this journey for the duration of at least 2015.</p>
+
+<p>Best Regards,
+PulchraVita</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post]]></title>
+    <link href="http://mcranwill.github.io/blog/2014/10/03/my-first-post/"/>
+    <updated>2014-10-03T18:39:45-07:00</updated>
+    <id>http://mcranwill.github.io/blog/2014/10/03/my-first-post</id>
+    <content type="html"><![CDATA[<h2>Oh Yeah From Cloud Genius Class</h2>
+
+<p>First time working with markdown</p>
+]]></content>
+  </entry>
+  
+</feed>
